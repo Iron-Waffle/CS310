@@ -1,2 +1,5 @@
-# CS310
-Programming with C++
+# CS 310 C++
+## Contributors
+
+- Dr. Robert Flowers
+- Boris Davis
